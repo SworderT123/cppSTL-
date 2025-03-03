@@ -1,0 +1,6 @@
+D:/vscode-project/test-c++/study/test/build/CMakeFiles/test.dir
+D:/vscode-project/test-c++/study/test/build/CMakeFiles/edit_cache.dir
+D:/vscode-project/test-c++/study/test/build/CMakeFiles/rebuild_cache.dir
+D:/vscode-project/test-c++/study/test/build/lib/CMakeFiles/MyLib.dir
+D:/vscode-project/test-c++/study/test/build/lib/CMakeFiles/edit_cache.dir
+D:/vscode-project/test-c++/study/test/build/lib/CMakeFiles/rebuild_cache.dir

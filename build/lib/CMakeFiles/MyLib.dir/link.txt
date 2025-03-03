@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libMyLib.a CMakeFiles/MyLib.dir/src/tjc_graph.cpp.obj CMakeFiles/MyLib.dir/src/tjc_link.cpp.obj CMakeFiles/MyLib.dir/src/tjc_queue.cpp.obj CMakeFiles/MyLib.dir/src/tjc_stack.cpp.obj CMakeFiles/MyLib.dir/src/tjc_string.cpp.obj CMakeFiles/MyLib.dir/src/tjc_tree.cpp.obj CMakeFiles/MyLib.dir/src/tjc_vector.cpp.obj
+D:\mingw64\bin\ranlib.exe libMyLib.a
